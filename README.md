@@ -6,11 +6,11 @@ You can find me at
 - [HuggingFace](https://huggingface.co/martinaoliver)
 - [Google Scholar](https://scholar.google.com/citations?user=U3PdgMIAAAAJ&hl=en&oi=ao)
 
-Have a look at my research projects!
+**Research projects**
 - [PhD Thesis: Oliver Huidobro, 2024, Data-driven modelling of robust Turing patterns in synthetic biofilms](https://github.com/martinaoliver/PhD_handover/blob/main/PhD_thesis.pdf)
 
 
-and publications
+**Publications**
 - [Oliver Huidobro et al. 2022. Synthetic spatial patterning in bacteria: advances based on novel diffusible signal. Microbial Biotechnology](https://doi.org/10.1111/1751-7915.13979)
 - [Tica, Oliver Huidobro et al. 2024. A Three-Node Turing Gene Circuit Forms Periodic Spatial Patterns in Bacteria. Cell Systems.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733248)
 - [Oliver Huidobro, Endres 2024. Effects of multistability, absorbing boundaries and growth on
