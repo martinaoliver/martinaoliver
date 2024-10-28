@@ -19,7 +19,7 @@ You can find me at
 - [MRres Thesis: Oliver Huidobro, 2020, A computational approach to engineering synthetic Turing patterns](https://github.com/martinaoliver/dissertations/blob/main/MRes_Thesis.pdf)
 - [BSc Thesis: Oliver Huidobro, 2019, Validating a restrained molecular dynamics model for alpha-synuclein](https://github.com/martinaoliver/dissertations/blob/main/BSc_Thesis.pdf)
 - [BSc Literature-review: Oliver Huidobro, 2018, Multiscale modelling of Tumour-Immune system interactions](https://github.com/martinaoliver/dissertations/blob/main/BSc_Literature_review.pdf)
-- 
+  
 
 <!--
 **martinaoliver/martinaoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
