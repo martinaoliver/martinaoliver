@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a computational biologist with interest in mathematical modelling, AI and drug discovery.
+You can find me at
+
+
 <!--
 **martinaoliver/martinaoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
