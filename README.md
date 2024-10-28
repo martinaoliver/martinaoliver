@@ -5,9 +5,9 @@ I am a computational biologist 🧬 with an interest in mathematical modelling, 
 
 You can find me at
 - [LinkedIn](https://www.linkedin.com/in/martinaoliver/)
-- [HuggingFace](https://huggingface.co/martinaoliver)
 - [Google Scholar](https://scholar.google.com/citations?user=U3PdgMIAAAAJ&hl=en&oi=ao)
-
+- [HuggingFace](https://huggingface.co/martinaoliver)
+  
 **Publications**
 - [Oliver Huidobro et al. 2022. Synthetic spatial patterning in bacteria: advances based on novel diffusible signal. Microbial Biotechnology](https://doi.org/10.1111/1751-7915.13979)
 - [Tica, Oliver Huidobro et al. 2024. A Three-Node Turing Gene Circuit Forms Periodic Spatial Patterns in Bacteria. Cell Systems.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4733248)
