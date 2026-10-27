@@ -1,7 +1,8 @@
 ## Hi there 👋 
 
 I am a scientist in the intersection of ML x Bio. Very interested in clinical research problems such as Target ID and clinical trial optimisation, as well as more theoretical ones such as morphogenesis and pattern formations in biology.
-Currently working at Helical building the application layer for Bio Foundation Models.
+
+Currently working at Helical building application layers for Bio Foundation Models.
 
 
 You can find me at
